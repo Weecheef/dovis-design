@@ -24,12 +24,12 @@
 		"friend": null,
 		"user": null,
 		"subscriber": "#95a300",
-		"silversubscriber": "#D4D4D4"
+		"silversubscriber": "#b1e2d8"
 	},
 	"images": {
 		"background": "http://i.imgur.com/wdWQ7xP.png",
 		"playback": null,
-		"admin": null,
+		"admin": "http://i.imgur.com/AEDts9y.png"
 		"ambassador": null,
 		"host": "https://i.imgur.com/Hm8kCDL.png",
 		"cohost": "https://i.imgur.com/Hm8kCDL.png",	
