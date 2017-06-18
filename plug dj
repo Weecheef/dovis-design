@@ -1,0 +1,42 @@
+{
+	"room": "Weecheef hata",
+	"author": "Dovis",
+	"css": "https://cdn.radiant.dj/rcs/rs_room.css",
+	"icon": "http://i.imgur.com/Rl06NaT.png",
+	"rules": {
+		"allowAutorespond": true,
+		"allowAutowoot": true,
+		"allowAutojoin": true,
+		"allowAutograb": true,
+		"allowSmartVote": true,
+		"allowEmotes": true,
+		"allowShowingMehs": true,
+		"forceSmartVote": false
+	},
+	"ccc": {
+		"admin": "#ffffff",
+		"ambassador": "#0088e2",
+		"host": "#ff7200",
+		"cohost": "#ff2a00",
+		"manager": "##00806e",
+		"bouncer": "#ae00ff",
+		"rdj": "#5E5EFF",
+		"friend": null,
+		"user": null,
+		"subscriber": "#95a300",
+		"silversubscriber": "#D4D4D4"
+	},
+	"images": {
+		"background": "http://i.imgur.com/wdWQ7xP.png",
+		"playback": null,
+		"admin": null,
+		"ambassador": null,
+		"host": "https://i.imgur.com/Hm8kCDL.png",
+		"cohost": "https://i.imgur.com/Hm8kCDL.png",	"manager": "https://i.imgur.com/SCkLxHj.png",
+		"bouncer": "https://i.imgur.com/YUKVqO2.png",
+	
+		"rdj": "https://i.imgur.com/axKg19I.png",
+		"subscriber": "https://i.imgur.com/zIbImv1.png",
+		"silversubscriber": "https://i.imgur.com/AHDikC9.png"
+	}
+}
