@@ -1,7 +1,7 @@
 {
 	"room": "Weecheef hata",
 	"author": "Dovis",
-	"css": "https://bb.githack.com/mmcoding/ultema/raw/HEAD/deiman%C4%8Diukai.css",
+	"css": "https://raw.githubusercontent.com/Weecheef/dovis-design/master/hata.css",
 	"icon": "http://i.imgur.com/Rl06NaT.png",
 	"rules": {
 		"allowAutorespond": true,
