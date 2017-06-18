@@ -18,7 +18,7 @@
 		"ambassador": "#0088e2",
 		"host": "#ff7200",
 		"cohost": "#ff2a00",
-		"manager": "##00806e",
+		"manager": "#00806e",
 		"bouncer": "#ae00ff",
 		"rdj": "#5E5EFF",
 		"friend": null,
@@ -32,11 +32,11 @@
 		"admin": null,
 		"ambassador": null,
 		"host": "http://i.imgur.com/BYdRWq6.png",
-		"cohost": "https://i.imgur.com/Hm8kCDL.png",
-		"bouncer": "https://i.imgur.com/YUKVqO2.png",
-		"manager": "https://i.imgur.com/SCkLxHj.png",
-		"rdj": "https://i.imgur.com/axKg19I.png",
-		"subscriber": "https://i.imgur.com/zIbImv1.png",
-		"silversubscriber": "https://i.imgur.com/AHDikC9.png"
+		"cohost": "http://i.imgur.com/i6A6XFm.png",
+		"bouncer": "http://i.imgur.com/37TFCpZ.png",
+		"manager": "http://i.imgur.com/04xs2QX.png",
+		"rdj": "http://i.imgur.com/GhVOzjp.png",
+		"subscriber": "http://i.imgur.com/GhVOzjp.png",
+		"silversubscriber": "http://i.imgur.com/qJEUmgP.png"
 	}
 }
