@@ -1094,7 +1094,7 @@
 background-position: center;
 }
 /**Hatos prižiūrėtojas**/
-/*#chat-messages .id-28206147 .badge-box i.bdg {
+#chat-messages .id-28206147 .badge-box i.bdg {
   background-image: url('http://i.imgur.com/0uZ4OPI.png')!important;
   background-size: cover;
   background-position: center;
