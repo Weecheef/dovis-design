@@ -322,7 +322,7 @@
 }
 #the-user-profile .experience .bar, #footer-user .info .meta .bar {
 	border-radius: 20px;
-	background: radial-gradient(hsl(210,10%,15%), hsl(210,10%,20%)) !important;
+	background: radial-gradient(hsl(0, 0%, 10%), hsl(210,10%,20%)) !important;
 }
 #the-user-profile .experience .bar .progress, #footer-user .info .meta .bar .progress {
 	border-radius: 20px;
@@ -681,6 +681,12 @@
 #chat-input.focused #chat-input-field{
 	color: #EEE !important;
 }
+
+
+
+
+
+
 
 /*### [message] ###*/
 
