@@ -29,10 +29,10 @@
 	"images": {
 		"background": "http://i.imgur.com/wdWQ7xP.png",
 		"playback": null,
-		"admin": null,
+		"admin": "http://i.imgur.com/AEDts9y.png",
 		"ambassador": null,
-		"host": "https://i.imgur.com/AEDts9y.png",
-		"cohost": "https://i.imgur.com/Hm8kCDL.png",	
+		"host": "http://i.imgur.com/AEDts9y.png",
+		"cohost": "https://i.imgur.com/Hm8kCDL.png",
 		"bouncer": "https://i.imgur.com/YUKVqO2.png",
 		"manager": "https://i.imgur.com/SCkLxHj.png",
 		"rdj": "https://i.imgur.com/axKg19I.png",
