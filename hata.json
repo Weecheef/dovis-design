@@ -1,7 +1,7 @@
 {
 	"room": "Weecheef hata",
 	"author": "Dovis",
-	"css": "https://rawcdn.githack.com/Weecheef/dovis-design/master/weecheef-hata.css",
+	"css": "https://raw.githubusercontent.com/Weecheef/dovis-design/master/hata.css",
 	"icon": "http://i.imgur.com/Rl06NaT.png",
 	"rules": {
 		"allowAutorespond": true,
