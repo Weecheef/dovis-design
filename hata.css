@@ -293,7 +293,7 @@ background: #c42e3b;
 }
 .icon-chat-cohost + span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
-	color: #ff2a00 !important;
+	color: ff7200 !important;
 }
 
 /*#####[MANAGER]#####*/
@@ -370,7 +370,7 @@ background: #c42e3b;
 	background: linear-gradient(to right, hsla(200,100%,20%,.5), hsla(200,100%,40%,.5)) !important;
 }
 #user-lists .list.staff .user:hover .name {
-	color: #eee !important;
+	color: #c4c4c4 !important;
 }
 #user-lists .header {
 	height: 42px;
